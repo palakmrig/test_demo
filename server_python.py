@@ -6,8 +6,8 @@
 # In[55]:
 
 
-x = True
-type(x)
+palak = True
+type(palak)
 
 
 # I'm assigning 12 to y 
