@@ -5,7 +5,7 @@
 
 # In[55]:
 
-
+print("Hi there")
 palak = True
 type(palak)
 
